@@ -1,0 +1,10 @@
+
+NIM = 20240534
+Nama = Muhammad Nuriana
+Alamat = Kp. Kalaparea
+Kelas = TI24
+
+NIM = 20230403291
+Nama = UdinMamama
+Alamat = Sukabumi2323
+Kelas = TI24
